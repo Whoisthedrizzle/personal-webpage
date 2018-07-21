@@ -1,6 +1,9 @@
 .DS_Store
 node_modules
+build
 /dist
+/personal-webpage-files
+/public
 
 # local env files
 .env.local
