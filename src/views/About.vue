@@ -2,6 +2,7 @@
   <div class="about">
     <img src="../assets/minneapolis.jpg"/>
     <p>I am a mid-level fullstack software engineer based near Minneapolis, MN.</p>
+    <p>I currently work for Infinite Campus creating software solutions for K-12 school districts.</p>
     <p>In my free time I enjoy playing around with new technologies such as what this website is built on.</p>
   </div>
 </template>
