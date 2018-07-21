@@ -2,8 +2,8 @@
 node_modules
 build
 /dist
-/personal-webpage-files
-/public
+personal-webpage_files
+public
 
 # local env files
 .env.local
